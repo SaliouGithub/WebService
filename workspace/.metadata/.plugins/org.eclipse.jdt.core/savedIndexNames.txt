@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\hp\Desktop\DIT2INFO-2022-2023\ESTAGE\eclipse-jee-2018-12-R-win32-x86_64\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1759209629.index
+344631375.index
